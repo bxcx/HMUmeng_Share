@@ -1,6 +1,9 @@
 # HMUmeng_Share
 Umeng Share
 
+[![](https://jitpack.io/v/bxcx/HMUmeng_Share.svg)](https://jitpack.io/#bxcx/HMUmeng_Share)
+
+
         new ShareUtils(context).share("耳朵纯音乐", "http://fir.im/ear", "总有一些音乐宠坏了我们的耳朵", new UMImage(this, R.mipmap.ic_ear), new IShareCallback() {
             @Override
             public void onSuccess() {
